@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "AmpScore: code and data for a forward-looking, uncertainty-aware battery health score"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Shayne
+    given-names: Dev G.
+    affiliation: "Department of Information Technology, St. Joseph's College of Engineering, Chennai, India"
+  - family-names: Kavitha
+    given-names: A.
+    affiliation: "Department of Information Technology, St. Joseph's College of Engineering, Chennai, India"
